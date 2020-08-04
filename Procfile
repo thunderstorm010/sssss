@@ -1,0 +1,1 @@
+worker: java -jar lunarbot-jda-1.0-SNAPSHOT-all.jar
